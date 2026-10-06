@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratik-das-7967a9211"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:pratikdasiitkgp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pratikdasiitkgp@gmail.com&su=Hello%20Pratik"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=pratikdasiitkgp-code&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS">
 </p>
 
@@ -59,7 +59,7 @@ class Pratik:
 
 ---
 
-<p align="center"><i>Always open to interesting data and engineering problems. Let's connect!</i></p>
+<p align="center"><i>Always open to interesting data and engineering problems. Let's connect!</i><br>📧 pratikdasiitkgp@gmail.com</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
